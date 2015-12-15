@@ -1,0 +1,6 @@
+.librarian
+nodes/*
+cookbooks/*
+.vagrant
+
+gitfold/
