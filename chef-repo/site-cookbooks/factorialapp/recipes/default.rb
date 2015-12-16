@@ -6,7 +6,7 @@
 #
 # All rights reserved - Do Not Redistribute
 #
-app_path = "/opt/airpair-devops-toolstack"
+app_path = "/opt/vagrant-chef"
 if not ::File.exists?(app_path)
   app_path = "/vagrant"
 end
