@@ -17,4 +17,5 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
      chef.cookbooks_path = ["chef-repo/site-cookbooks", "chef-repo/cookbooks"]
      chef.add_recipe "factorialapp"
   end
+
 end
