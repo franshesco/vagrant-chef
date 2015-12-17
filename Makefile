@@ -1,3 +1,3 @@
 test:
-        python factorial.py test
+	python factorial.py test
 
