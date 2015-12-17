@@ -3,6 +3,8 @@
 
 site "https://supermarket.getchef.com/api/v1"
 
+cookbook 'jenkins'
+cookbook 'postfix' # to send email with Jenkins reports
 cookbook 'swap'
 cookbook 'swap_tuning'
 cookbook 'chef-client'

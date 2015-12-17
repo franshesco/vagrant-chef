@@ -1,0 +1,1 @@
+{"license":"Apache 2.0","tarball_file_size":9651,"version":"0.16.0","average_rating":null,"cookbook":"https://supermarket.getchef.com/api/v1/cookbooks/chef-ingredient","file":"https://supermarket.getchef.com/api/v1/cookbooks/chef-ingredient/versions/0.16.0/download","dependencies":{"yum-chef":">= 0.2.0","apt-chef":">= 0.2.0"}}

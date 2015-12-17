@@ -1,0 +1,1 @@
+{"license":"Apache 2.0","tarball_file_size":34366,"version":"4.3.2","average_rating":null,"cookbook":"https://supermarket.getchef.com/api/v1/cookbooks/chef-client","file":"https://supermarket.getchef.com/api/v1/cookbooks/chef-client/versions/4.3.2/download","dependencies":{"windows":"~> 1.37","logrotate":">= 1.2.0","cron":">= 1.2.0"}}

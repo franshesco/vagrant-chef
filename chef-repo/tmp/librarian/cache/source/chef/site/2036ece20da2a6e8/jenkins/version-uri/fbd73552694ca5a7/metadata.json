@@ -1,0 +1,1 @@
+{"license":"Apache 2.0","tarball_file_size":51462,"version":"2.4.1","average_rating":null,"cookbook":"https://supermarket.getchef.com/api/v1/cookbooks/jenkins","file":"https://supermarket.getchef.com/api/v1/cookbooks/jenkins/versions/2.4.1/download","dependencies":{"yum":"~> 3.0","runit":"~> 1.5","apt":"~> 2.0"}}

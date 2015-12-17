@@ -19,3 +19,8 @@ api.add_resource(Factorial, '/factorial/<int:number>')
 if __name__ == '__main__':
     app.run(debug=True)
 
+if __name__ == '__main__':
+    if sys.argv[1] == "test":
+        factorial = Factorial()
+        assert(factorial.factorial(10) == 3628800)
+        sys.exit(0)
