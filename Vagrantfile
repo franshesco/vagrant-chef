@@ -10,7 +10,7 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
     v.customize ["modifyvm", :id, "--cpus", 1]
   end
 
-  config.vm.network "forwarded_port", guest: 5000, host: 5000
+  config.vm.network "forwarded_port", guest: 6000, host: 6000
 
   config.vm.provision "shell", inline: "cd /vagrant/chef-repo; make install-chef-client"
   config.vm.provision "chef_solo" do |chef|
